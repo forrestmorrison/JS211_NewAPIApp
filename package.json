@@ -1,0 +1,22 @@
+{
+  "name": "js211_newapiapp",
+  "version": "1.0.0",
+  "description": "New API App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forrestmorrison/JS211_NewAPIApp.git"
+  },
+  "author": "Forrest Morrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forrestmorrison/JS211_NewAPIApp/issues"
+  },
+  "homepage": "https://github.com/forrestmorrison/JS211_NewAPIApp#readme",
+  "dependencies": {
+    "dotenv": "^15.0.0"
+  }
+}
